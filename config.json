@@ -3,6 +3,6 @@
 	"token": "MTUwNzYyMzc3MzgxNjIzMDAxOQ.GWy5Q8.YEflomTQKkf4tAwIKWwXM-pH6mUBiTzC3OvR3g",
 	"owner": "1500389234291507311",
 	"client_id": "1507623773816230019",
-	"test_guild_id": "1501817002157670402"
-    "mongodb_uri": "mongodb+srv://novirahmiati37_db_user:<123ayabg>@cluster0discord.qer4h8y.mongodb.net/?appName=Cluster0discord",
+	"test_guild_id": "1501817002157670402",
+    "mongodb_uri": "mongodb+srv://novirahmiati37_db_user:<123ayabg>@cluster0discord.qer4h8y.mongodb.net/?appName=Cluster0discord"
 }
